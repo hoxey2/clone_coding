@@ -1,0 +1,24 @@
+.header-top{
+    position: fixed;
+    width: 100%;
+    height: 56px;
+    background: whitesmoke;
+    z-index: 100;
+}
+.gnb_wrap{
+    position: relative;
+    height: 100vh;
+}
+.gnb_big{
+    height: 100%;
+    width: 240px;
+    background: whitesmoke;
+    position: fixed;
+    display: none;
+}
+.gnb_sm{
+    height: 100%;
+    width: 74px;
+    background: whitesmoke;
+    position: fixed;
+}
